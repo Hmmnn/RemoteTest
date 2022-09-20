@@ -18,7 +18,7 @@ struct AB
 		if(i == abc)
 			cout << "BB" << endl;
 
-		
+		return;
 	}
 };
 
