@@ -11,8 +11,6 @@ struct AB
 	{
 		if(i == abc)
 			cout << "AA" << endl;
-
-		return;
 	}
 
 	void BB(int*& abc)
@@ -36,6 +34,4 @@ int main()
 
 	char c = '5';
 	cout << (int)c << endl;
-
-	cout << "두번째 브랜치" << endl;
 }
